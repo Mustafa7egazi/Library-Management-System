@@ -27,7 +27,7 @@ This is a Library Management System developed in C#. It allows users to borrow b
 
 2. Navigate to the project directory:
    ```bash
-  cd library-management-system
+   cd library-management-system
 
 3. Build the project:
    ```bash
