@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|c:\\users\\thepcbro\\desktop\\library-management-system\\librarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18399293-3721-4157-9DF4-A28B3E63C731}|LibraryManagementSystem.csproj|solutionrelative:librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:45:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibraryUser.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeToolTip": "LibraryUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:48:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryCard.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:48:18.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:48:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:47:53.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:47:03.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\THEPCBRO\\Desktop\\Library-Management-System\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:46:42.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
